@@ -7,6 +7,7 @@ name = "pypi"
 flask = "*"
 ipdb = "*"
 pytest = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
